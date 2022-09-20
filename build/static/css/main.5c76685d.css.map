@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5c76685d.css","mappings":"AAAA,MACE,YAAa,CACb,cAAe,CAEf,QAAS,CADT,mBAEF","sources":["App.css"],"sourcesContent":[".grid {\n  display: flex;\n  flex-wrap: wrap;\n  justify-self: center;\n  gap: 10px;\n}\n"],"names":[],"sourceRoot":""}
